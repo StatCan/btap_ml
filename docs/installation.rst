@@ -3,7 +3,7 @@ Installation
 
 This project implements a pipeline designed to run on *nix based systems, and as such may have requirements not 
 documented here to be able to run on Windows. Some elements of this documentation may be specific to running on the 
-`DAaaS <https://www.statcan.gc.ca/data-analytics-service/>`_ environment.
+`DAS <https://www.statcan.gc.ca/data-analytics-service/>`_ environment.
 
 Python
 ------
