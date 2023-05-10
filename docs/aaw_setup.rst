@@ -2,7 +2,7 @@ Working on AAW
 ==============
 
 Getting the project set up on the Advanced Analytics Workspace (AAW) can be achieved by following the guide provided 
-for `Kubeflow Setup <https://statcan.github.io/daaas/en/1-Experiments/Kubeflow/>`_. Here are some values you can use
+for `Kubeflow Setup <https://statcan.github.io/aaw/en/1-Experiments/Kubeflow/>`_. Here are some values you can use
 when creating the notebook:
 
 * Name: Your name or a descriptive purpose
@@ -25,7 +25,7 @@ It takes a few minutes to create the notebook, but from that point on you can co
 Logging in
 ----------
 
-When the notebook is ready, you can log in to see the `Jupyter Launcher <https://statcan.github.io/daaas/en/1-Experiments/Jupyter/>`_ 
+When the notebook is ready, you can log in to see the `Jupyter Launcher <https://statcan.github.io/aaw/en/1-Experiments/Jupyter/>`_ 
 screen. From there you can either use open or create notebooks, or launch VS Code to have an IDE environment.
 
 Project source code
